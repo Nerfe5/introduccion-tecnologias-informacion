@@ -1,6 +1,6 @@
 # 🗒️ Notas — Introducción a las Tecnologías de la Información
 
-![Materia](https://img.shields.io/badge/Materia-Introducci%C3%B3n%20a%20las%20TI-informational) ![Tipo](https://img.shields.io/badge/Tipo-Bit%C3%A1cora%20de%20avance-yellow)
+`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `🟡 Tipo: Bitácora de avance`
 
 > Este archivo es una **bitácora de trabajo**: qué se ha hecho, cuándo y con qué resultado. No repite el contenido temático (eso vive en `README.md`) ni las definiciones (eso vive en `glosario.md`).
 

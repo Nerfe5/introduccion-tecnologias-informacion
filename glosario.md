@@ -1,6 +1,6 @@
 # 📖 Glosario — Introducción a las Tecnologías de la Información
 
-![Materia](https://img.shields.io/badge/Materia-Introducci%C3%B3n%20a%20las%20TI-informational) ![Actualizado](https://img.shields.io/badge/Semana-1-blue)
+`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 1`
 
 > Definiciones construidas a partir del material de la Semana 1. Se irá ampliando conforme avancen las semanas del curso.
 

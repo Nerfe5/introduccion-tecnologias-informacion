@@ -23,14 +23,25 @@
   - `glosario.md` — definiciones de los términos clave del curso (se irá ampliando semana a semana).
   - `notas.md` (este archivo) — bitácora de avance.
 
+## Semana 2
+
+- **Material recibido:** archivo comprimido (.rar) con la presentación de la Mtra. María Magdalena Zapien Osuna sobre "TI en la organización del nuevo siglo" (Blockchain, IoT, Cloud Computing con sus modelos as-a-service, Green IT, e-Business/e-Commerce y los seis modelos de comercio electrónico B2B/B2C/C2C/C2B/B2A/C2A).
+- **Documentación actualizada:** se amplió `README.md` (nueva sección Semana 2 con tablas de tendencias y modelos de e-commerce) y `glosario.md` (nuevos términos agregados en su propia sección, conservando el orden alfabético dentro de cada semana).
+- **Lecturas complementarias de la semana:**
+  - Campanella, M. (2020). *El abc del e-commerce* (Hacer Empresa) — artículo público, consultado directamente.
+  - Pérez Rodríguez, M. D. (Coord.) (2025). *Estrategia y nuevos modelos de negocio en la era digital*, páginas 50-75 (biblioteca UTEL / elibro.net) — el usuario obtuvo acceso a la biblioteca y compartió el contenido de las páginas para su incorporación al repo (cambios en el modelo de negocio: generación de ingresos, relación con el cliente, operaciones y alianzas estratégicas, con los casos Netflix, Nike y Ford-Google).
+  - Ambas lecturas ya están integradas en `README.md` y `glosario.md`, con sus referencias en APA.
+- **Tarea 2 (modalidad colaborativa):** aún sin consigna publicada por el docente en el Espacio colaborativo; el grupo no tenía tópicos de discusión al momento de revisar. Pendiente de que se abra para trabajarla.
+
 ## Asuntos en paralelo (no académicos, pero relacionados)
 
-- **Suscripción Platzi:** se envió correo a soporte para aclarar si el acceso institucional que otorga UTEL puede vincularse a la cuenta activa (@Skykru) en lugar de crear una cuenta nueva, y así evitar la renovación automática del plan Expert Duo (vence el 23 de noviembre de 2026). En espera de respuesta del equipo de Platzi tras la primera ronda de preguntas de seguimiento.
+- **Suscripción Platzi:** se envió correo a soporte para aclarar si el acceso institucional que otorga UTEL puede vincularse a la cuenta activa (@Skykru) en lugar de crear una cuenta nueva, y así evitar la renovación automática del plan Expert Duo (vence el 23 de noviembre de 2026). Carla (equipo de Platzi) preguntó por qué se usó un correo distinto (Gmail) para el acceso de UTEL; se respondió la aclaración. En espera de la siguiente respuesta del equipo de Platzi.
 
 ---
 
 ## Próximos pasos
 
 - [ ] Dar seguimiento al correo con Platzi.
+- [ ] Revisar el Espacio colaborativo hasta que el docente publique la consigna de la Tarea 2.
 - [ ] Actualizar esta bitácora cuando se abra la segunda etapa del Foro 1.
-- [ ] Sumar nuevos términos al glosario conforme avancen las semanas 2 en adelante.
+- [ ] Sumar nuevos términos al glosario conforme avancen las semanas 3 en adelante.

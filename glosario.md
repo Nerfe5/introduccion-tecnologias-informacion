@@ -1,10 +1,12 @@
 # 📖 Glosario — Introducción a las Tecnologías de la Información
 
-`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 1`
+`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 2`
 
-> Definiciones construidas a partir del material de la Semana 1. Se irá ampliando conforme avancen las semanas del curso.
+> Definiciones construidas a partir del material de cada semana. Se irá ampliando conforme avance el curso. Los términos están agrupados por semana y, dentro de cada una, en orden alfabético.
 
 ---
+
+## Semana 1 — Fundamentos de TI y Telecomunicaciones
 
 ### Antropometría
 Ciencia que investiga, recopila y analiza las medidas del cuerpo humano, usada como directriz para el diseño de objetos y espacios que actúan como extensión del cuerpo (por ejemplo, mobiliario o dispositivos).
@@ -78,3 +80,92 @@ Conjunto de normas, dispositivos y protocolos que permiten transmitir voz utiliz
 
 ### WiFi
 Marca de la WiFi Alliance (antes WECA) que certifica que los equipos cumplen con los estándares 802.11 relacionados con redes inalámbricas de área local.
+
+---
+
+## Semana 2 — TI en la organización del nuevo siglo
+
+### B2A (Business to Administration)
+Intercambio o venta de servicios y productos entre una empresa y el Gobierno a través de Internet. Ejemplo: una empresa contratada por el gobierno para desarrollar una página web.
+
+### B2B (Business to Business)
+Transacción online en la que una compañía adquiere productos o servicios de otra compañía. Ejemplo: comprar insumos a otro negocio de forma completamente digital.
+
+### B2C (Business to Consumer)
+Transacción de una empresa hacia el consumidor final; una de las formas más conocidas de e-Commerce. Ejemplo: Walmart, Netflix.
+
+### Blockchain
+Cadena de bloques que funciona como control o gestor de procesos financieros, base del funcionamiento de criptomonedas como Bitcoin para inversiones y transacciones comerciales.
+
+### C2A (Consumer to Administration)
+Intercambio entre el Gobierno y los consumidores finales, generalmente relacionado con pago de impuestos, seguros de salud o educación.
+
+### C2B (Consumer to Business)
+Transacción de un consumidor final (a menudo freelance) hacia una empresa. Ejemplo: un diseñador freelance que vende un logo a una compañía.
+
+### C2C (Consumer to Consumer)
+Venta de productos o servicios entre consumidores, sin intermediarios; modelo informal común en la venta de artículos de segunda mano a través de redes sociales.
+
+### Cloud Computing
+Modelo de prestación de servicios de negocio y tecnología que permite acceder a un catálogo de servicios estandarizados a través de Internet, de forma flexible ante picos de demanda. Se divide en varios modelos "como servicio": **SaaS** (software), **FaaS** (funciones), **DaaS** (datos), **PaaS** (plataforma), **STaaS** (almacenamiento) e **IaaS** (infraestructura).
+
+### e-Business
+Incorporación de las TI a la gestión empresarial; incluye al e-Commerce pero también cubre procesos internos como producción, inventario, finanzas y recursos humanos.
+
+### e-Commerce
+Compra y venta de productos o servicios a través de medios electrónicos como Internet, cubriendo ventas, marketing, toma de pedidos, entrega y administración de lealtad del consumidor.
+
+### Economía digital
+Conjunto de estrategias y acciones para impulsar la competitividad del sector productivo de una organización mediante su inserción en las tecnologías de la información.
+
+### Green IT
+Uso eficiente de los recursos computacionales, minimizando el impacto ambiental, maximizando la viabilidad económica de la empresa y asegurando deberes sociales (incluye tecnologías de bajo consumo y energías renovables).
+
+### Internet de las cosas (IoT)
+Conexión de diversos dispositivos entre sí (electrodomésticos, autos, cerraduras, etc.) con el objetivo de brindar un mejor servicio al usuario, permitiendo el acceso remoto a dichos dispositivos.
+
+### Producción de contenidos digitales
+Datos o información producida y guardada en un archivo electrónico que se reproduce mediante un programa informático; involucra diseño visual, programación, marketing y estrategia de negocio.
+
+### Tecnología móvil inteligente
+Capacidad de un dispositivo de contar con programación lógica que responde de manera racional a estímulos captados por sus sensores.
+
+---
+
+## Semana 2 (complemento) — Estrategia y nuevos modelos de negocio en la era digital
+
+### Alianzas estratégicas (entorno digital)
+Colaboraciones entre empresas orientadas a la innovación y co-creación de valor, que permiten compartir recursos, conocimientos y tecnologías. Incluyen integración de tecnología, co-marketing/co-branding, alianzas entre startups y corporaciones, y alianzas para acceder a nuevos mercados.
+
+### Automatización Robótica de Procesos (RPA)
+Uso de software (bots) para ejecutar tareas repetitivas que normalmente realizaría una persona, como la entrada de datos o el procesamiento de pedidos (ejemplos: UiPath, Blue Prism).
+
+### CRM (Customer Relationship Management)
+Sistema que permite a una empresa gestionar y centralizar las interacciones con clientes actuales y potenciales, en una plataforma accesible para ventas, marketing y atención al cliente (ejemplos: Salesforce, HubSpot, Zoho CRM).
+
+### ERP (Enterprise Resource Planning)
+Sistema integrado de software que ayuda a una empresa a gestionar sus operaciones (inventarios, finanzas, recursos humanos, producción, ventas) desde un solo lugar (ejemplos: SAP, Oracle NetSuite, Odoo).
+
+### Experiencia del cliente (Customer Experience, CX)
+Conjunto de percepciones del cliente a lo largo de todos sus puntos de contacto con una marca, desde el descubrimiento hasta el soporte postventa; en la era digital se caracteriza por personalización, interacción omnicanal, respuesta inmediata y autoservicio.
+
+### Logística inteligente
+Uso de tecnologías avanzadas (rutas optimizadas, almacenes automatizados, drones, vehículos autónomos, RFID) para gestionar y optimizar el transporte y la distribución de productos.
+
+### Marketing digital
+Uso de herramientas tecnológicas para llegar a los consumidores a través de canales digitales (correo, redes sociales, buscadores), con énfasis en personalización y automatización de campañas.
+
+### Microtransacciones
+Pequeñas compras dentro de plataformas o aplicaciones digitales, comunes en videojuegos, que generan ingresos recurrentes pese a su bajo costo individual (ejemplos: Fortnite, Candy Crush).
+
+### Modelo Freemium
+Estrategia que combina una versión básica gratuita de un producto/servicio con funciones premium de pago, buscando atraer una gran base de usuarios y convertirlos gradualmente en clientes de pago (ejemplos: Spotify, Dropbox).
+
+### Modelo de Suscripción
+Esquema en el que el usuario paga una tarifa recurrente (mensual o anual) por acceso continuo a un servicio o producto, generando ingresos predecibles y fidelización (ejemplos: Netflix, Adobe Creative Cloud).
+
+### Publicidad en línea
+Forma de monetización digital que consiste en mostrar anuncios a los usuarios mientras navegan, usan aplicaciones o interactúan en redes sociales, con segmentación precisa y bajo costo relativo (ejemplos: Google Ads, Facebook Ads).
+
+### Supply chain digital
+Integración de tecnologías digitales a lo largo de toda la cadena de suministro (desde producción hasta entrega final) que permite visibilidad en tiempo real, análisis predictivo y gestión más eficiente de recursos.

@@ -31,7 +31,7 @@
   - Campanella, M. (2020). *El abc del e-commerce* (Hacer Empresa) — artículo público, consultado directamente.
   - Pérez Rodríguez, M. D. (Coord.) (2025). *Estrategia y nuevos modelos de negocio en la era digital*, páginas 50-75 (biblioteca UTEL / elibro.net) — el usuario obtuvo acceso a la biblioteca y compartió el contenido de las páginas para su incorporación al repo (cambios en el modelo de negocio: generación de ingresos, relación con el cliente, operaciones y alianzas estratégicas, con los casos Netflix, Nike y Ford-Google).
   - Ambas lecturas ya están integradas en `README.md` y `glosario.md`, con sus referencias en APA.
-- **Tarea 2 (modalidad colaborativa):** aún sin consigna publicada por el docente en el Espacio colaborativo; el grupo no tenía tópicos de discusión al momento de revisar. Pendiente de que se abra para trabajarla.
+- **Tarea 2 (modalidad colaborativa):** consigna publicada y trabajada por completo — observación de 5 ejemplos de TI, investigación de los 5 conceptos básicos (con fuentes de Scielo/Redalyc), mapa conceptual, y situación práctica del caso de la empresa de productos locales. Se descubrió y aplicó un nuevo formato de entrega oficial ("Formato para entregar trabajos", compartido por un Gestor de Éxito Estudiantil), documentado en `formato_entrega.md`: márgenes 3.0/2.5 cm, membrete con logo + Semana + materia en cada página, pie de página con franja verde "utel.edu.mx". Documento armado, revisado contra la rúbrica y el checklist, y **entregado** el 11 de septiembre de 2026.
 
 ## Asuntos en paralelo (no académicos, pero relacionados)
 
@@ -42,6 +42,5 @@
 ## Próximos pasos
 
 - [ ] Dar seguimiento al correo con Platzi.
-- [ ] Revisar el Espacio colaborativo hasta que el docente publique la consigna de la Tarea 2.
 - [ ] Actualizar esta bitácora cuando se abra la segunda etapa del Foro 1.
 - [ ] Sumar nuevos términos al glosario conforme avancen las semanas 3 en adelante.

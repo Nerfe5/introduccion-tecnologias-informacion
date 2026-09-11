@@ -157,7 +157,7 @@ Conjunto de conocimientos, herramientas y soluciones tecnológicas que permiten 
 ## 📝 Seguimiento de entregas (modalidad colaborativa)
 
 - [x] Foro 1 (semana 1) — publicado (puntos 1, 2 y retroalimentación); retro de la asistente docente recibida ✅
-- [ ] Tarea asesor virtual (semana 2) — en espera de que se publique la consigna en el Espacio colaborativo
+- [x] Tarea asesor virtual (semana 2) — entregada el 11 de septiembre de 2026 ✅
 - [ ] Foro 2 (semana 3)
 - [ ] Tarea asesor virtual (semana 4)
 - [ ] Foro 3 (semana 5)

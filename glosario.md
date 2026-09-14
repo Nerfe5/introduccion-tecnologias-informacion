@@ -1,6 +1,6 @@
 # 📖 Glosario — Introducción a las Tecnologías de la Información
 
-`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 2`
+`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 3`
 
 > Definiciones construidas a partir del material de cada semana. Se irá ampliando conforme avance el curso. Los términos están agrupados por semana y, dentro de cada una, en orden alfabético.
 
@@ -169,3 +169,49 @@ Forma de monetización digital que consiste en mostrar anuncios a los usuarios m
 
 ### Supply chain digital
 Integración de tecnologías digitales a lo largo de toda la cadena de suministro (desde producción hasta entrega final) que permite visibilidad en tiempo real, análisis predictivo y gestión más eficiente de recursos.
+
+---
+
+## Semana 3 — Escenarios de hardware actuales y convergencia tecnológica
+
+### BIOS (Basic Input/Output System)
+Función principal: arrancar la PC. Al encender el equipo, realiza el test de memoria RAM y comprueba qué dispositivos (como los discos duros) están conectados; si no detecta un dispositivo, el sistema no podrá usarlo.
+
+### Cable coaxial
+Medio de transmisión guiado con un único conductor central ("alma"), aislado por una capa de plástico y rodeado de una malla metálica. Permite mayor distancia, velocidad y menos interferencias que el par trenzado, aunque es más caro.
+
+### Cable de par trenzado
+Medio de transmisión guiado compuesto por conductores enrollados entre sí, lo que reduce el *crosstalk* (diafonía). Es el más económico y rápido entre los medios de cobre, aunque más susceptible al ruido. Tipos: UTP (no blindado), STP (blindado) y FTP/ScTP (apantallado global).
+
+### Convergencia tecnológica
+Pérdida de fronteras entre un medio de información y otro; integración de voz, datos y video en un sistema único de información y comunicación. No es un destino, tecnología o solución única, sino un proceso que responde a la demanda de los usuarios de conexiones simples, disponibles e integradas.
+
+### Dispositivo electrónico
+Aparato que combina elementos organizados en circuitos para controlar y aprovechar señales eléctricas, a diferencia de un dispositivo eléctrico, que solo controla el flujo de corriente.
+
+### Fibra óptica
+Medio de transmisión guiado hecho de filamentos de vidrio o plástico que transportan señales de luz. Ofrece mayor ancho de banda, menor atenuación y mayor distancia que el cobre, aunque su instalación es más costosa y frágil. Existen dos modos de propagación: monomodo (mayor capacidad, distancias largas) y multimodo (corta distancia, más económico).
+
+### Memoria caché
+Reservorio rápido de memoria diseñado para acelerar la transferencia de datos entre dispositivos rápidos y lentos. Se organiza en niveles: **L1** (interno, más rápido y caro), **L2** (exclusivo, datos de uso reciente) y **L3** (integrado en la placa madre, alimenta a L2).
+
+### Memoria RAM / ROM
+La **RAM** (Random-Access Memory) permite lectura y escritura, y almacena los programas y aplicaciones en uso; cuando se agota, la PC recurre al disco duro como memoria virtual. La **ROM** (Read-Only Memory) solo permite lectura y almacena el BIOS del sistema.
+
+### Periférico
+Dispositivo electrónico físico que se conecta a una computadora sin formar parte de su núcleo básico (CPU, memoria, placa madre, alimentación eléctrica). Se clasifican en periféricos de entrada, salida, almacenamiento y comunicación.
+
+### Procesador (CPU)
+Conocido como el "cerebro" de la PC; coordina los elementos del equipo, ejecuta aplicaciones y procesa instrucciones. Físicamente es una pastilla de silicio colocada en un socket sobre la placa base.
+
+### Redes inalámbricas
+Subred de comunicación con cobertura geográfica limitada cuyo medio físico es el aire. El término *wireless* describe a los dispositivos que no usan cables para enviar y recibir datos.
+
+### SSD (Solid State Drive)
+Disco de estado sólido sin partes móviles, que funciona mediante circuitos integrados formando una matriz de semiconductores. Ofrece mayor velocidad de arranque, mayor resistencia a golpes y menor consumo de energía que un disco duro tradicional.
+
+### Virtualización del escritorio
+Proceso de separar el escritorio (datos y programas del usuario) de la máquina física, almacenándolo remotamente en un servidor central. Permite el acceso remoto y la continuidad del negocio ante desastres o pérdida de datos.
+
+### WiFi
+Abreviatura de *Wireless Fidelity*; término usado para una red local inalámbrica (WLAN) que utiliza ondas de radio de alta frecuencia (2 a 11 GHz) para comunicar y transmitir datos.

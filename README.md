@@ -154,11 +154,72 @@ Conjunto de conocimientos, herramientas y soluciones tecnológicas que permiten 
 
 ---
 
+## 🧭 Semana 3 — Escenarios de hardware actuales y convergencia tecnológica
+
+> Resumen elaborado a partir del material de la Semana 3 (lectura institucional + diapositivas de Pierre Sergei Zuppa Azúa + artículo académico de Javier Echeverría).
+
+### 💻 Escenarios de hardware actuales
+
+| Componente | Puntos clave |
+|---|---|
+| **SSD (disco de estado sólido)** | Sin partes móviles; hasta 5x más rápido al encender, mayor resistencia a golpes, menor consumo de energía. |
+| **Procesadores (2022)** | Comparativa Intel Core i3/i5 vs. AMD Ryzen 3/5 por núcleos, hilos y frecuencia base/turbo. |
+| **Tarjetas gráficas** | Diseños más silenciosos gracias a mejores disipadores; comparadas por frecuencia, memoria GDDR6 y consumo (W). |
+| **Marcas de laptops** | Apple (gama alta, batería), HP (catálogo amplio, garantía extendida), Lenovo (convertibles delgados), Dell (ligereza y fiabilidad), Acer/Asus (gaming accesible), MSI/Razer (gama gamer de alto rendimiento), Microsoft Surface y Samsung (diseño delgado). |
+
+### 🖥️ Arquitecturas computacionales y memoria
+
+- **Disco duro:** almacena datos de forma permanente, incluso sin energía.
+- **Memoria RAM:** lectura/escritura rápida para programas en uso; si se agota, la PC usa el disco duro como memoria virtual.
+- **Memoria ROM:** solo lectura, almacena el BIOS.
+- **Memoria caché:** acelera la transferencia entre dispositivos rápidos y lentos — **L1** (más rápida, integrada), **L2** (exclusiva, datos recientes), **L3** (en la placa madre, alimenta a L2).
+- **BIOS:** arranca la PC, realiza el test de memoria RAM y detecta los dispositivos conectados.
+- **Procesador (CPU):** coordina los elementos del equipo; físicamente es una pastilla de silicio colocada en el socket de la placa base.
+
+### 🔌 Dispositivos, accesorios y periféricos
+
+- **Dispositivo electrónico:** combina elementos en circuitos para controlar señales eléctricas (a diferencia de uno eléctrico, que solo aprovecha la corriente).
+- **Periférico:** se conecta a la computadora pero no forma parte del núcleo (CPU, memoria, placa madre, alimentación). Tipos: **entrada** (ingresan datos), **salida** (muestran información), **almacenamiento** (guardan datos) y **comunicación** (conectan con otras máquinas).
+- **Medios de transmisión guiados:** par trenzado (económico, corto alcance), cable coaxial (mayor distancia y velocidad), fibra óptica (mayor ancho de banda, menor atenuación).
+- **Medios no guiados:** microondas terrestres y satelitales, infrarrojo, ondas de radio.
+- **Redes inalámbricas / WiFi:** subred con el aire como medio físico; opera en bandas de 2 a 11 GHz, con ventajas de costo, escalabilidad y fácil mantenimiento.
+- **Estándares IEEE Ethernet:** 802.3 (10 Mbps), 802.3u Fast Ethernet (100 Mbps), 802.3z Giga Ethernet (1-10 Gbps).
+
+### 🔀 Convergencia tecnológica
+
+<details>
+<summary>Ver definición según el material del curso (Zuppa Azúa)</summary>
+
+- **Qué es:** pérdida de fronteras entre un medio de información y otro; sistema único de información y comunicación; mezcla de medios y tecnologías.
+- **Qué no es:** un destino o tecnología específica, un nuevo concepto, una única solución o enfoque.
+- **Lo que demandan los usuarios:** conexiones sin problemas, disponibilidad, integración, reducir costo, incrementar velocidad, comunicación unificada.
+- **Beneficios:** simplicidad, ubicuidad, flexibilidad, personalización, movilidad, fiabilidad y seguridad.
+
+</details>
+
+<details>
+<summary>Ver la perspectiva académica (Echeverría, 2008-2009)</summary>
+
+Desde un enfoque filosófico y sistémico, la convergencia tecnológica se entiende como resultado de la formación progresiva de **sistemas tecnológicos**: las tecnologías no funcionan de forma aislada, sino que se acoplan entre sí (como la rueda, el cajón y la tracción animal formando el carro). El artículo distingue dos grandes procesos de convergencia contemporáneos:
+
+- **Convergencia TIC:** integración de tecnologías de orígenes muy distintos (cine, fotografía, radio, televisión, informática, telecomunicaciones) en un mismo sistema tecnológico y un nuevo espacio social, el "espacio electrónico" (Echeverría, 1999).
+- **Convergencia NBIC (nano-bio-info-cogno):** integración de nanotecnologías, biotecnologías, tecnologías de la información y ciencias cognitivas a escala nanométrica, con el objetivo de ampliar las capacidades humanas (perceptivas, cognitivas, comunicativas).
+
+Una idea central del autor: la convergencia tecnológica depende de la **convergencia social** entre los usuarios de los distintos sistemas tecnológicos — son los propios usuarios quienes, al apropiarse de las tecnologías, terminan impulsando su convergencia.
+
+</details>
+
+### 🔑 Palabras clave de la semana
+
+`SSD` · `Procesador` · `Memoria caché` · `BIOS` · `Periféricos` · `Par trenzado` · `Fibra óptica` · `WiFi` · `Ethernet` · `Convergencia tecnológica` · `TIC` · `NBIC`
+
+---
+
 ## 📝 Seguimiento de entregas (modalidad colaborativa)
 
 - [x] Foro 1 (semana 1) — publicado (puntos 1, 2 y retroalimentación); retro de la asistente docente recibida ✅
 - [x] Tarea asesor virtual (semana 2) — entregada el 11 de septiembre de 2026 ✅
-- [ ] Foro 2 (semana 3)
+- [ ] Foro 2 (semana 3) — abre el miércoles; material ya leído y analizado
 - [ ] Tarea asesor virtual (semana 4)
 - [ ] Foro 3 (semana 5)
 - [ ] Tarea semana 6
@@ -174,3 +235,5 @@ Conjunto de conocimientos, herramientas y soluciones tecnológicas que permiten 
 - Entérate Digital. (2022). *Diferencias entre el E-Business y el E-Commerce*. https://enteratedigital.pe/ecommerce/diferencias-e-business-e-commerce/
 - Campanella, M. (2020, octubre). *El abc del e-commerce*. Hacer Empresa. https://www.hacerempresa.uy/el-abc-del-e-commerce/
 - Pérez Rodríguez, M. D. (Coord.). (2025). *Estrategia y nuevos modelos de negocio en la era digital* (1.ª ed.). Editorial ICB. https://elibro.net/es/ereader/utel/289226
+- Zuppa Azúa, P. S. *Escenarios de hardware actuales* (diapositivas del curso, Semana 3).
+- Echeverría, J. (2008-2009). Los dos grandes procesos de convergencia tecnológica. *Quaderns del CAC*, (31-32), 5-11.

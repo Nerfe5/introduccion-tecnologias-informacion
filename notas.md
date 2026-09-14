@@ -33,6 +33,13 @@
   - Ambas lecturas ya están integradas en `README.md` y `glosario.md`, con sus referencias en APA.
 - **Tarea 2 (modalidad colaborativa):** consigna publicada y trabajada por completo — observación de 5 ejemplos de TI, investigación de los 5 conceptos básicos (con fuentes de Scielo/Redalyc), mapa conceptual, y situación práctica del caso de la empresa de productos locales. Se descubrió y aplicó un nuevo formato de entrega oficial ("Formato para entregar trabajos", compartido por un Gestor de Éxito Estudiantil), documentado en `formato_entrega.md`: márgenes 3.0/2.5 cm, membrete con logo + Semana + materia en cada página, pie de página con franja verde "utel.edu.mx". Documento armado, revisado contra la rúbrica y el checklist, y **entregado** el 11 de septiembre de 2026.
 
+## Semana 3
+
+- **Material recibido:** archivo comprimido (.rar) con tres documentos — lectura institucional (hardware actual: SSD, procesadores, tarjetas gráficas, marcas de laptops), diapositivas de Zuppa Azúa sobre "Escenarios de hardware actuales" (arquitecturas, memoria, periféricos, medios de transmisión, convergencia) y el artículo académico de Javier Echeverría, *Los dos grandes procesos de convergencia tecnológica* (Quaderns del CAC, 2008-2009).
+- **Lectura completada:** el usuario ya leyó los tres documentos; destacó especialmente el artículo académico de Echeverría, con enfoque filosófico sobre convergencia TIC y NBIC.
+- **Documentación actualizada:** se amplió `README.md` (nueva sección Semana 3) y `glosario.md` (nuevos términos de hardware, redes y convergencia, en su propia sección).
+- **Foro 2:** abre el miércoles; aún no se conoce la consigna. Antes de eso, se hará una evaluación corta con el material de la semana (similar al repaso de preguntas de opción múltiple que se hizo en la Semana 2).
+
 ## Asuntos en paralelo (no académicos, pero relacionados)
 
 - **Suscripción Platzi:** se envió correo a soporte para aclarar si el acceso institucional que otorga UTEL puede vincularse a la cuenta activa (@Skykru) en lugar de crear una cuenta nueva, y así evitar la renovación automática del plan Expert Duo (vence el 23 de noviembre de 2026). Carla (equipo de Platzi) preguntó por qué se usó un correo distinto (Gmail) para el acceso de UTEL; se respondió la aclaración. En espera de la siguiente respuesta del equipo de Platzi.
@@ -43,4 +50,4 @@
 
 - [ ] Dar seguimiento al correo con Platzi.
 - [ ] Actualizar esta bitácora cuando se abra la segunda etapa del Foro 1.
-- [ ] Sumar nuevos términos al glosario conforme avancen las semanas 3 en adelante.
+- [ ] Sumar nuevos términos al glosario conforme avancen las semanas 4 en adelante.

@@ -38,7 +38,13 @@
 - **Material recibido:** archivo comprimido (.rar) con tres documentos — lectura institucional (hardware actual: SSD, procesadores, tarjetas gráficas, marcas de laptops), diapositivas de Zuppa Azúa sobre "Escenarios de hardware actuales" (arquitecturas, memoria, periféricos, medios de transmisión, convergencia) y el artículo académico de Javier Echeverría, *Los dos grandes procesos de convergencia tecnológica* (Quaderns del CAC, 2008-2009).
 - **Lectura completada:** ya leí los tres documentos; me encantó especialmente el artículo académico de Echeverría, con su enfoque filosófico sobre convergencia TIC y NBIC.
 - **Documentación actualizada:** amplié `README.md` (nueva sección Semana 3) y `glosario.md` (nuevos términos de hardware, redes y convergencia, en su propia sección).
-- **Foro 2:** abre el miércoles; todavía no conozco la consigna. Antes de eso, voy a hacer una evaluación corta con el material de la semana (similar al repaso de preguntas de opción múltiple que hice en la Semana 2).
+- **Foro 2 (primera etapa, del 16 al 28 de septiembre):**
+  - Respondí las dos preguntas de reflexión (proyección de hardware a 5 y 10 años, y forma más ecológica de transmisión de datos), conectando mis propias ideas técnicas (litografía EUV/ASML, GPU y CUDA, grafeno, convergencia NBIC de Echeverría) con fuentes de respaldo (Fundación Innovación Bankinter, Resumen Tecnológico, Barragán-Escandón et al.).
+  - Ajusté el tono a uno menos técnico y más accesible para el foro, e incluí el grafeno como material ya aplicado en smartphones.
+  - Publiqué mi aportación y recibí retroalimentación de la asistente docente, quien pidió: nombrar un medio de transmisión específico, sustentar con un dato cuantitativo (g CO₂e u otro), y corregir el formato APA de una referencia incompleta.
+  - Respondí a esa retroalimentación ampliando el punto 2: propuse fibra óptica de baja pérdida + energía renovable como combinación, con el dato de gramos de CO₂ por hora (fibra vs. cobre vs. 5G, según Ficomza, 2023) y dos medidas concretas (límites de potencia óptica, reciclaje de componentes). Corregí la referencia de Barragán-Escandón et al. (autores y páginas completos). **Publicado.**
+  - Revisé la aportación de un compañero (Facundo David Barreto, con una proyección muy técnica de hardware a 2031-2036) y publiqué mi retroalimentación, conectando su propuesta de transmisión fotónica con mi propio enfoque de energías renovables como piezas complementarias. **Publicado.**
+  - Pendiente: la **segunda etapa** del Foro 2 (aún no se ha introducido).
 
 ## Asuntos en paralelo (no académicos, pero relacionados)
 
@@ -49,5 +55,6 @@
 ## Próximos pasos
 
 - [ ] Dar seguimiento al correo con Platzi.
+- [ ] Estar al pendiente de la segunda etapa del Foro 2.
 - [ ] Actualizar esta bitácora cuando se abra la segunda etapa del Foro 1.
 - [ ] Sumar nuevos términos al glosario conforme avancen las semanas 4 en adelante.

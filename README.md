@@ -305,7 +305,7 @@ Los **modelos de proceso** definen un marco genérico con cinco actividades: com
 
 ## 🧭 Semana 5 — Sistemas organizacionales
 
-> Resumen elaborado a partir del material de la Semana 5 (diapositivas de Pierre Sergei Zuppa Azúa, 2014, y de la Mtra. María Magdalena Zapien Osuna, más el artículo de Bocanegra, Peña y Ruiz-Cortés, 2009). Avance parcial: falta integrar la investigación de la Open Class.
+> Resumen elaborado a partir del material de la Semana 5 (diapositivas de Pierre Sergei Zuppa Azúa, 2014, y de la Mtra. María Magdalena Zapien Osuna, más el artículo de Bocanegra, Peña y Ruiz-Cortés, 2009). Semana cerrada en cuanto a entregas de la plataforma (Foro 3).
 
 ### 🎯 Resultados de aprendizaje y competencia
 
@@ -378,8 +378,8 @@ El artículo propone enlazar la **estrategia empresarial** con el **software** m
 - [x] Tarea asesor virtual (semana 2) — entregada el 11 de septiembre de 2026 ✅
 - [ ] Foro 2 (semana 3) — primera etapa publicada (aportación, respuesta a la retro y retroalimentación a un compañero); falta la segunda etapa
 - [x] Tarea asesor virtual (semana 4) — entregada el 28 de septiembre de 2026 ✅
-- [ ] Foro 3 (semana 5) — primera etapa publicada el 5 de octubre de 2026 (aportación propia + 2 retroalimentaciones); falta la segunda etapa
-- [ ] Open Class (semana 5) — investigación "¿Cómo mejoran las TI la gestión de las organizaciones?" (pendiente)
+- [x] Foro 3 (semana 5) — publicado el 5 de octubre de 2026 (aportación propia + 2 retroalimentaciones); sin otra consigna en la plataforma ✅
+- [ ] Open Class (semana 5) — consigna de investigación "¿Cómo mejoran las TI la gestión de las organizaciones?"; sin entrega confirmada en la plataforma
 - [ ] Tarea semana 6
 - [ ] Trabajo en equipo integrador (semana 7)
 

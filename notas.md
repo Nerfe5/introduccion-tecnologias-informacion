@@ -64,9 +64,9 @@
   - Respondí las dos preguntas: la importancia de los sistemas de información para una organización (alta) y mi opinión sobre los sistemas organizacionales *open source* y si revolucionaron la industria del software. Me apoyé en Bocanegra et al. (2009), Valencia Arias (2017) y Zuppa Azúa (2014).
   - Retroalimenté a dos compañeros: Luis Angel Mendez Juarez (distinción entre software libre y *open source*, el costo de implementación y soporte, y PostgreSQL como gestor de bases de datos frente a un ERP como Odoo) e Isai Angel Juank Tapuy (su visión equilibrada del código abierto; sugerí citar dentro del texto y sumar una fuente académica).
   - Cuidé que mis retroalimentaciones sonaran a conversación y no a corrección; ajusté una frase que sonaba a lo segundo.
-  - **Publicado** el 5 de octubre de 2026. Pendiente: la segunda etapa del foro.
+  - **Publicado** el 5 de octubre de 2026. Confirmé en la plataforma que no hay otra consigna, así que el Foro 3 quedó completo.
 - **Documentación actualizada:** amplié `README.md` (sección Semana 5 con sistemas por nivel, transaccionales, IOS, ERP, CRM y el artículo de Bocanegra), `glosario.md` y el seguimiento de entregas.
-- **Pendiente de la semana:** la investigación de la Open Class "¿Cómo mejoran las TI la gestión de las organizaciones?" (con las dos reflexiones sobre roles y funciones no delimitados y sobre la teoría general de sistemas).
+- **Open Class:** el material trae una consigna de investigación ("¿Cómo mejoran las TI la gestión de las organizaciones?", con dos reflexiones sobre roles y funciones no delimitados y sobre la teoría general de sistemas), pero no aparece como entrega en la plataforma. Con esto la Semana 5 quedó cerrada y ya corre la Semana 6.
 
 ## Asuntos en paralelo (no académicos, pero relacionados)
 
@@ -77,7 +77,7 @@
 ## Próximos pasos
 
 - [x] Desactivar la renovación automática de Platzi (confirmado por correo el 5 de octubre de 2026).
-- [ ] Hacer la investigación de la Open Class de la Semana 5.
-- [ ] Estar al pendiente de la segunda etapa del Foro 2 y del Foro 3.
+- [ ] Leer el material de la Semana 6 y preparar su actividad.
+- [ ] Estar al pendiente de la segunda etapa del Foro 2.
 - [ ] Actualizar esta bitácora cuando se abra la segunda etapa del Foro 1.
 - [ ] Sumar nuevos términos al glosario conforme avancen las semanas 6 en adelante.

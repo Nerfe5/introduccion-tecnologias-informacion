@@ -1,6 +1,6 @@
 # 📖 Glosario — Introducción a las Tecnologías de la Información
 
-`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 3`
+`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 5`
 
 > Definiciones construidas a partir del material de cada semana. Se irá ampliando conforme avance el curso. Los términos están agrupados por semana y, dentro de cada una, en orden alfabético.
 
@@ -215,3 +215,95 @@ Proceso de separar el escritorio (datos y programas del usuario) de la máquina 
 
 ### WiFi
 Abreviatura de *Wireless Fidelity*; término usado para una red local inalámbrica (WLAN) que utiliza ondas de radio de alta frecuencia (2 a 11 GHz) para comunicar y transmitir datos.
+
+---
+
+## Semana 4 — Escenarios de software actuales
+
+### Ciclo de vida del software
+Secuencia de acciones que ocurren durante el desarrollo de un software: necesidades, análisis, diseño, codificación, pruebas, validación y mantenimiento. Los modelos más conocidos son cascada, modelo V, iterativo, espiral y ágil.
+
+### Cuestionario
+Técnica para obtener información mediante preguntas bien establecidas y ordenadas. Puede incluir preguntas abiertas, cerradas o mixtas.
+
+### Diagrama de flujo de datos
+Representación gráfica que indica cómo se transforman los datos a medida que avanzan en el sistema y qué funciones (y subfunciones) los transforman. Es la base del análisis estructurado.
+
+### Entrevista
+Técnica que obtiene por medio del diálogo los datos necesarios para un proyecto. Puede ser **dirigida** (secuencia de preguntas estructuradas) o **no dirigida** (preguntas libres conforme surgen).
+
+### Ingeniería de software
+Aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento de software, además del estudio de esos enfoques. Su meta es producir sistemas confiables y costeables que funcionen de modo eficiente.
+
+### Licencia de software
+Contrato entre el titular de los derechos (autor o distribuidor) y el usuario que fija los términos y condiciones para usar un programa.
+
+### Microkernel
+Enfoque de arquitectura de sistema operativo en el que el núcleo se reduce a lo mínimo indispensable y el resto de los servicios corren de forma aislada, lo que da mayor modularidad, extensibilidad y recuperación ante fallos. Se contrasta con el enfoque monolítico, donde todos los servicios corren en el mismo núcleo.
+
+### Modelo cliente/servidor
+Modelo de sistemas distribuidos que muestra cómo se reparten los datos y el procesamiento entre varios procesadores: servidores independientes que ofrecen servicios, clientes que los usan y una red que permite el acceso.
+
+### Modelo de cascada
+Modelo de desarrollo de fases secuenciales en el que cada etapa inicia hasta que termina la anterior. Es rígido ante cambios de última hora.
+
+### Modelo en espiral
+Modelo evolutivo e iterativo que desarrolla versiones cada vez más completas e incorpora gestión explícita de riesgos en cada ciclo.
+
+### Modelos ágiles (Scrum, Kanban)
+Enfoques de desarrollo orientados a entregas cortas y adaptación constante a los cambios, implementados mediante marcos como Scrum y Kanban.
+
+### Observación
+Técnica con la que el analista se cerciora, desde la experiencia práctica, de cuál es el problema real del área estudiada. Puede ser **participante** (el observador se integra) o **no participante** (observa desde fuera).
+
+### Sistema operativo
+Programa o conjunto de programas que gestiona los procesos básicos de un sistema informático y permite la ejecución normal del resto de las operaciones. Se clasifica en multiusuario, multiprocesador, multitarea, multitramo y de tiempo real; entre sus funciones están la administración del procesador, la memoria, las entradas/salidas, los archivos, las autorizaciones y la información.
+
+### Software de tiempo real
+Software que coordina, analiza y controla eventos del mundo real conforme ocurren, visto como un sistema de estímulo/respuesta (con estímulos periódicos o aperiódicos).
+
+### Software libre (open source)
+Software que respeta la libertad de los usuarios para usarlo con cualquier propósito, estudiarlo y adaptarlo, distribuir copias y mejorarlo haciendo públicas las mejoras. Se desarrolla con el aporte de comunidades que programan, revisan, prueban y reportan errores.
+
+### Software propietario
+Programa en el que el usuario final tiene limitaciones para usarlo, modificarlo o redistribuirlo, y cuyo código fuente no está disponible o está restringido por un acuerdo de licencia o por tecnología anticopia.
+
+---
+
+## Semana 5 — Sistemas organizacionales
+
+### CRM (Customer Relationship Management)
+Estrategia de negocio enfocada en el cliente que busca reunir la mayor cantidad de información sobre él para generar relaciones a largo plazo y aumentar su satisfacción. Se inscribe en el marketing relacional.
+
+### EDI (Intercambio electrónico de datos)
+Tipo de intercambio de información entre organizaciones dentro de un sistema interorganizacional, junto con la transferencia electrónica de fondos, el comercio electrónico y las bases de datos compartidas.
+
+### ERP (Enterprise Resource Planning)
+Solución que centraliza e integra los procesos y la captura de información de áreas como finanzas, ventas, compras, logística, producción, proyectos y recursos humanos, para que la organización opere bajo un sistema estandarizado y con información confiable. Ejemplos: Oracle ERP, Microsoft Dynamics 365 y Kinetic (antes Epicor ERP).
+
+### MDD (Model-Driven Development)
+Desarrollo dirigido por modelos: técnica que genera, mediante transformaciones, modelos más cercanos al software (por ejemplo, procesos de negocio y plantillas textuales) a partir de modelos de alto nivel.
+
+### Modelo de valor
+Modelo de negocio de alto nivel que representa a los actores involucrados en una transacción comercial y los productos o servicios que se intercambian. Bocanegra et al. (2009) lo complementan con información estratégica para enlazarlo con el software.
+
+### Red interorganizacional
+Infraestructura de computadoras y redes de comunicación que permite el acceso y el intercambio de información entre organizaciones participantes para realizar una operación de negocio conjunta. Se sostiene en cuatro elementos: estrategia, ambiente, tecnología y cultura.
+
+### Sistema de información
+Conjunto de componentes interrelacionados que permiten capturar, procesar, almacenar y distribuir información para apoyar la toma de decisiones y el control de una institución.
+
+### Sistema de información interorganizacional (IOS)
+Automatización del flujo de información entre organizaciones para lograr una cadena de suministro deseada, con comunicación eficiente, sana competencia y mejores servicios al cliente.
+
+### Sistemas empresariales
+Sistemas que integran los datos y las aplicaciones de un proceso de negocio o de toda la organización, y son compatibles con sistemas operativos diferentes. Incluyen ERP, administración de la cadena de suministro, CRM y administración del conocimiento.
+
+### Sistemas por nivel organizacional
+Clasificación de los sistemas de información según el grupo al que sirven: **estratégico** (directores), **administrativo** (gerentes de nivel medio), **de conocimiento** (trabajadores del conocimiento y de datos) y **operativo** (gerentes operativos). Además existen los sistemas por áreas funcionales: ventas y marketing, manufactura y producción, finanzas y contabilidad, y recursos humanos.
+
+### Sistemas transaccionales
+Sistemas que automatizan y registran de forma permanente las operaciones o transacciones de una organización. Se ubican en el nivel más bajo, suelen ser los primeros que se implementan y están optimizados para almacenar grandes volúmenes de datos, no para analizarlos. Deben poder deshacer errores y administrar varias transacciones con prioridades.
+
+### Transacción
+Evento o proceso que genera o modifica la información almacenada en un sistema de información.

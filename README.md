@@ -215,13 +215,171 @@ Una idea central del autor: la convergencia tecnológica depende de la **converg
 
 ---
 
+## 🧭 Semana 4 — Escenarios de software actuales
+
+> Resumen elaborado a partir del material de la Semana 4 (diapositivas de Pierre Sergei Zuppa Azúa, 2014, y de la Mtra. María Magdalena Zapien Osuna) y de las lecturas de la tarea (Millo-Sánchez et al., 2016; Delgado Olivera y Díaz Alonso, 2021; Valencia Arias, 2017).
+
+### 🎯 Resultados de aprendizaje y competencia
+
+- [x] Diferenciar la funcionalidad del hardware para lograr un desempeño eficiente de software.
+- [x] Identificar las características idóneas para la compra de software.
+
+### 🖥️ Sistema operativo
+
+Programa (o conjunto de programas) que gestiona los procesos básicos de un sistema informático y permite la ejecución normal del resto de las operaciones.
+
+| Clasificación | Qué permite |
+|---|---|
+| **Multiusuario** | Que dos o más usuarios utilicen sus programas al mismo tiempo. |
+| **Multiprocesador** | Abrir un mismo programa en más de una CPU. |
+| **Multitarea** | Que varios programas se ejecuten al mismo tiempo. |
+| **Multitramo** | Que diversas partes de un solo programa funcionen al mismo tiempo. |
+| **Tiempo real** | Responder a las entradas de forma inmediata. |
+
+<details>
+<summary>Ver las siete funciones del sistema operativo</summary>
+
+- **Administración del procesador:** reparte el procesador entre los programas mediante un algoritmo de programación.
+- **Gestión de la memoria de acceso aleatorio:** administra el espacio de memoria asignado a cada aplicación y usuario.
+- **Gestión de entradas/salidas:** unifica y controla el acceso de los programas a los recursos materiales mediante los *drivers*.
+- **Gestión de ejecución de aplicaciones:** asigna a las aplicaciones los recursos que necesitan para ejecutarse sin problemas.
+- **Administración de autorizaciones:** garantiza que los recursos los usen solo programas y usuarios con permiso.
+- **Gestión de archivos:** controla la lectura y escritura en el sistema de archivos y sus permisos de acceso (es la que interviene, por ejemplo, al abrir y trabajar un documento de Word).
+- **Gestión de la información:** ofrece indicadores para diagnosticar el funcionamiento correcto del equipo.
+
+</details>
+
+**Arquitectura interna (Millo-Sánchez et al., 2016):** en un enfoque **monolítico** todos los servicios corren en un mismo núcleo; en un enfoque de **microkernel** el núcleo se reduce al mínimo y el resto de los servicios corren aislados, lo que da más modularidad, extensibilidad y recuperación ante fallos.
+
+### 🛠️ Ingeniería de software
+
+- **Definición:** aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento de software; su meta es el desarrollo costeable de sistemas confiables que funcionen de modo eficiente.
+- **Elementos que lo definen:** los programas y/o algoritmos, las estructuras de datos y los documentos.
+- **Tipos de desarrollo:** productos genéricos y productos personalizados.
+- **Parámetros de buen diseño:** mantenibilidad, portabilidad, confiabilidad, utilidad, costo, usabilidad y eficiencia.
+- **Acciones:** factibilidad, requerimientos, planeación del proyecto, diseño, implementación, prueba, entrega y mantenimiento.
+- **Modelado del análisis:** análisis estructurado (apoyado en el diagrama de flujo de datos) y análisis orientado a objetos.
+
+### 🔄 Ciclo de vida y modelos de desarrollo
+
+El **ciclo de vida** es la secuencia de acciones que ocurre durante el desarrollo del software: necesidades → análisis → diseño → codificación → pruebas → validación → mantenimiento.
+
+| Modelo | Idea clave |
+|---|---|
+| **Cascada** | Fases secuenciales; cada etapa inicia hasta terminar la anterior. |
+| **Modelo V** | Variante de la cascada que empareja cada fase de desarrollo con una de pruebas. |
+| **Iterativo / incremental** | Entrega versiones funcionales cada vez más completas. |
+| **Espiral** | Evolutivo, con gestión explícita de riesgos en cada ciclo. |
+| **Prototipos** | Evolutivo; se construye una versión preliminar para validarla con el cliente. |
+| **Ágil (Scrum, Kanban)** | Entregas cortas y adaptación constante al cambio (Delgado Olivera y Díaz Alonso, 2021). |
+
+Los **modelos de proceso** definen un marco genérico con cinco actividades: comunicación, planeación, modelado, construcción y despliegue.
+
+### 🗣️ Cómo definir un software
+
+- **Pasos:** reunión con el cliente → hacer las preguntas correctas → obtener información → requerimientos funcionales → necesidades y expectativas del cliente.
+- **Técnicas:** **entrevista** (dirigida/estructurada o no dirigida), **cuestionario** (preguntas abiertas, cerradas o mixtas) y **observación** (participante o no participante).
+- **Diseño de software:** arquitectónico, de la interfaz (documenta la interacción con otros subsistemas), de componentes, de la estructura de datos y de algoritmos.
+- **Modelo cliente/servidor:** sistema distribuido con servidores independientes que ofrecen servicios, clientes que los llaman y una red que los conecta.
+- **Software de tiempo real:** coordina, analiza y controla eventos del mundo real conforme ocurren (sistema estímulo/respuesta; estímulos periódicos o aperiódicos).
+
+### 🆓 Software libre vs. software propietario
+
+| | Software libre | Software propietario |
+|---|---|---|
+| **Licencia** | Priman las **libertades** | Priman las **prohibiciones** |
+| **Código fuente** | Disponible | No disponible o restringido |
+| **Uso, copia y mejora** | Libre: usar, estudiar, distribuir y mejorar | Requiere permiso expreso del titular |
+| **Ejemplos** | Linux (Ubuntu, MX Linux), FreeBSD, OpenOffice, LibreOffice | Windows, Microsoft Office |
+
+- **Las cuatro libertades:** usar el programa con cualquier propósito, estudiar cómo funciona y adaptarlo, distribuir copias y mejorar el programa haciendo públicas las mejoras.
+- **Cómo se desarrolla:** con aportes de comunidades que programan, revisan, diseñan interfaces, prueban y reportan errores.
+- **Adopción en pymes (Valencia Arias, 2017):** pesan más la cultura tecnológica, la infraestructura, la calidad percibida y la disponibilidad de personal capacitado en TI que el ahorro económico.
+- **Dato de repaso:** el esquema **LAMP** (Linux, Apache, MySQL y PHP) es la base *open source* con la que se construyeron aplicaciones como Facebook; IBM adquirió Red Hat en 2019.
+
+### 🔑 Palabras clave de la semana
+
+`Sistema operativo` · `Multiusuario` · `Multitarea` · `Microkernel` · `Ingeniería de software` · `Ciclo de vida` · `Cascada` · `Espiral` · `Ágil` · `Licencia de software` · `Software libre` · `Software propietario` · `Cliente/servidor`
+
+---
+
+## 🧭 Semana 5 — Sistemas organizacionales
+
+> Resumen elaborado a partir del material de la Semana 5 (diapositivas de Pierre Sergei Zuppa Azúa, 2014, y de la Mtra. María Magdalena Zapien Osuna, más el artículo de Bocanegra, Peña y Ruiz-Cortés, 2009). Avance parcial: falta integrar la investigación de la Open Class.
+
+### 🎯 Resultados de aprendizaje y competencia
+
+- [x] Seleccionar los tipos de sistemas organizacionales de acuerdo con sus necesidades.
+- [x] Aplicar sistemas de organización utilizando TI.
+
+### 🏛️ Sistemas de información por nivel
+
+**Sistema de información:** conjunto de componentes interrelacionados que permiten capturar, procesar, almacenar y distribuir información para apoyar la toma de decisiones y el control de la institución.
+
+| Tipo de sistema | Grupo al que sirve |
+|---|---|
+| **Nivel estratégico** | Directores |
+| **Nivel administrativo** | Gerentes de nivel medio |
+| **Nivel de conocimiento** | Trabajadores del conocimiento y de datos |
+| **Nivel operativo** | Gerentes operativos |
+| **Áreas funcionales** | Ventas y marketing, manufactura y producción, finanzas y contabilidad, recursos humanos |
+
+Los sistemas empresariales se pueden clasificar desde dos perspectivas: la **funcional** (qué área de la organización atienden) y la del **usuario** (a qué nivel sirven). Los que abarcan la empresa de forma integral son los **sistemas empresariales** (ERP), la **administración de la cadena de suministro** (SCM), la **administración de las relaciones con el cliente** (CRM) y la **administración del conocimiento**.
+
+### 🧾 Sistemas transaccionales
+
+- **Transacción:** evento o proceso que genera o modifica la información almacenada en un sistema de información.
+- **Propiedades:** automatizan tareas operativas y permiten ahorrar en personal; suelen ser los primeros que se implementan; sus cálculos son simples; cargan grandes volúmenes de datos; sus beneficios se ven rápido; están optimizados para almacenar, no para analizar.
+- **Obligaciones:** poder deshacer cualquier error y dejar los datos como estaban antes, y controlar múltiples transacciones determinando prioridades.
+
+### 🤝 Sistemas interorganizacionales (IOS)
+
+Automatizan el flujo de información entre organizaciones para lograr una cadena de suministro eficiente, con comunicación ágil, sana competencia y mejores servicios al cliente.
+
+- **¿Por qué implementarlos?** Reducir riesgos, buscar economías de escala, aprovechar el intercambio de tecnologías, aumentar la competitividad, superar barreras de inversión y reforzar la comunicación global.
+- **Tipos:** intercambio electrónico de datos (EDI), administración de la cadena de suministro, transferencia electrónica de fondos, comercio electrónico, comunicaciones electrónicas y bases de datos compartidas.
+- **Redes interorganizacionales:** se sostienen en cuatro elementos: estrategia, ambiente, tecnología y cultura.
+
+### 🧩 ERP y CRM
+
+<details>
+<summary>ERP (Enterprise Resource Planning)</summary>
+
+- **Qué es:** solución que centraliza e integra los procesos y la captura de información de finanzas, ventas, compras, logística, producción, proyectos y recursos humanos, bajo un sistema estandarizado y con información confiable.
+- **Por qué se necesita:** sin ERP los procesos van por separado, con duplicidad de información y errores de captura; con ERP un pedido del cliente dispara de forma automática la orden de compra, el cobro y los movimientos contables.
+- **Beneficios:** procesos optimizados y estandarizados, información accesible y confiable, mejor comunicación entre áreas, menos operaciones innecesarias, costos más bajos por visibilidad en línea y decisiones menos improvisadas.
+- **Módulos relacionados:** CRM, HRM, MRP, SCM y FRM.
+- **Ejemplos:** Oracle ERP, Microsoft Dynamics 365 y Kinetic (antes Epicor ERP, enfocado en manufactura).
+
+</details>
+
+<details>
+<summary>CRM (Customer Relationship Management)</summary>
+
+- **Qué es:** estrategia de negocio centrada en el cliente que reúne la mayor cantidad de información posible sobre él para generar relaciones a largo plazo; forma parte del marketing relacional.
+- **Permite:** comprender al cliente, retenerlo con una mejor experiencia, atraer y ganar nuevos clientes y contratos, crecer de forma rentable y bajar los costos de gestión de clientes.
+- **Ciclo del CRM (10 etapas):** ordenar los datos, ampliar la visión del cliente, contratar un especialista en datos, analizar la base de clientes, definir métricas y objetivos, automatizar campañas multicanal, probar y analizar de nuevo, optimizar decisiones, calcular el retorno y operacionalizar todo.
+
+</details>
+
+### 🔗 Estrategia y software de negocio (Bocanegra et al., 2009)
+
+El artículo propone enlazar la **estrategia empresarial** con el **software** mediante **modelos de valor** (que representan a los actores y lo que se intercambian), complementados con los objetivos de las organizaciones. Con técnicas de **desarrollo dirigido por modelos (MDD)** se generan modelos de procesos de negocio y plantillas textuales útiles para levantar requisitos, de modo que directivos y desarrolladores compartan una misma visión de la organización.
+
+### 🔑 Palabras clave de la semana
+
+`Sistema de información` · `Nivel estratégico` · `Sistemas transaccionales` · `IOS` · `EDI` · `ERP` · `CRM` · `SCM` · `Modelo de valor` · `MDD`
+
+---
+
 ## 📝 Seguimiento de entregas (modalidad colaborativa)
 
 - [x] Foro 1 (semana 1) — publicado (puntos 1, 2 y retroalimentación); retro de la asistente docente recibida ✅
 - [x] Tarea asesor virtual (semana 2) — entregada el 11 de septiembre de 2026 ✅
-- [ ] Foro 2 (semana 3) — abre el miércoles; material ya leído y analizado
-- [ ] Tarea asesor virtual (semana 4)
-- [ ] Foro 3 (semana 5)
+- [ ] Foro 2 (semana 3) — primera etapa publicada (aportación, respuesta a la retro y retroalimentación a un compañero); falta la segunda etapa
+- [x] Tarea asesor virtual (semana 4) — entregada el 28 de septiembre de 2026 ✅
+- [ ] Foro 3 (semana 5) — primera etapa publicada el 5 de octubre de 2026 (aportación propia + 2 retroalimentaciones); falta la segunda etapa
+- [ ] Open Class (semana 5) — investigación "¿Cómo mejoran las TI la gestión de las organizaciones?" (pendiente)
 - [ ] Tarea semana 6
 - [ ] Trabajo en equipo integrador (semana 7)
 
@@ -237,3 +395,11 @@ Una idea central del autor: la convergencia tecnológica depende de la **converg
 - Pérez Rodríguez, M. D. (Coord.). (2025). *Estrategia y nuevos modelos de negocio en la era digital* (1.ª ed.). Editorial ICB. https://elibro.net/es/ereader/utel/289226
 - Zuppa Azúa, P. S. *Escenarios de hardware actuales* (diapositivas del curso, Semana 3).
 - Echeverría, J. (2008-2009). Los dos grandes procesos de convergencia tecnológica. *Quaderns del CAC*, (31-32), 5-11.
+- Zuppa Azúa, P. S. (2014). *Escenarios de software actuales* [Diapositivas del curso, Semana 4]. UTEL Universidad.
+- Zapien Osuna, M. M. *Unidad 4. Escenarios de software actuales* (diapositivas del curso, Semana 4).
+- Millo-Sánchez, R., Paz-Rodríguez, W., Gallardo-Segura, A., y López-León, H. (2016). XEOS para el desarrollo de software base de sistemas embebidos. *Revista Cubana de Ciencias Informáticas, 10*(Especial Informática 2016), 1-14.
+- Delgado Olivera, L. de la C., y Díaz Alonso, L. M. (2021). Modelos de desarrollo de software. *Revista Cubana de Ciencias Informáticas, 15*(1), 37-51.
+- Valencia Arias, J. A. (2017). Factores implicados en la adopción de software libre en las PYME de Medellín. *Revista CEA, 3*(6), 55-75.
+- Zuppa Azúa, P. S. (2014). *Sistemas organizacionales* [Diapositivas del curso, Semana 5]. UTEL Universidad.
+- Zapien Osuna, M. M. *Unidad 5. Sistemas organizacionales* (diapositivas del curso, Semana 5).
+- Bocanegra, J., Peña, J., y Ruiz-Cortés, A. (2009). Hacia el enlace entre la estrategia empresarial mediante modelos de valor y el software de negocio: Un enfoque MDD. *Revista Avances en Sistemas e Informática, 6*(1), 15-24.

@@ -372,6 +372,34 @@ El artículo propone enlazar la **estrategia empresarial** con el **software** m
 
 ---
 
+## 🧭 Semana 6 — TI y su impacto social
+
+> Resumen de la actividad de la Semana 6 (Unidad 6: TI y su impacto social), centrada en la **web semántica** y en la práctica con **WolframAlpha**. Fuente del video: ULLaudiovisual (2018).
+
+### 🌐 Web semántica
+
+La **web semántica** busca que la información de Internet tenga un **significado que las computadoras puedan interpretar**, de modo que un buscador no se limite a encontrar palabras, sino que entienda la pregunta y devuelva una respuesta. Según el video de la actividad, es un ejemplo típico de **expectativas exageradas** sobre una tecnología: hay más promesas que aplicaciones tangibles, y más del 90 % de la web actual sigue en **HTML**, que describe cómo se muestra el contenido y no su significado. Para acercar el significado a las máquinas se recurre a las **ontologías**, que describen formalmente los conceptos de un área y sus relaciones.
+
+### 🔎 Práctica con WolframAlpha
+
+**WolframAlpha** es un motor de **conocimiento computacional**: en lugar de listar páginas, obtiene hechos de datos curados y aplica algoritmos para producir respuestas (Wolfram Alpha LLC, 2009). La actividad consistió en 10 consultas (5 matemáticas y 5 preguntas en inglés) con captura, interpretación y conclusión.
+
+| Tipo | Resultado |
+|---|---|
+| Ecuaciones, derivada e integral | Resueltas correctamente, con gráficas y formas alternas |
+| Dato estadístico (internet en México) | Respondió con cifra concreta: 81.18 % de la población |
+| Preguntas abiertas o subjetivas | No entendió la consulta o la sustituyó por una más sencilla |
+| Pregunta con varias ideas | Tomó solo una palabra ("North") y respondió algo sin relación |
+| Definición ("Semantic Web") | Tema en desarrollo, sin respuesta |
+
+**Aprendizaje:** funciona muy bien con preguntas precisas sobre datos verificables; con preguntas abiertas la persona sigue siendo clave para formular bien la consulta y revisar cómo la interpretó el buscador.
+
+### 🔑 Palabras clave de la semana
+
+`Web semántica` · `Ontología` · `HTML` · `WolframAlpha` · `Conocimiento computacional` · `Expectativas exageradas`
+
+---
+
 ## 📝 Seguimiento de entregas (modalidad colaborativa)
 
 - [x] Foro 1 (semana 1) — publicado (puntos 1, 2 y retroalimentación); retro de la asistente docente recibida ✅
@@ -380,7 +408,7 @@ El artículo propone enlazar la **estrategia empresarial** con el **software** m
 - [x] Tarea asesor virtual (semana 4) — entregada el 28 de septiembre de 2026 ✅
 - [x] Foro 3 (semana 5) — publicado el 5 de octubre de 2026 (aportación propia + 2 retroalimentaciones); sin otra consigna en la plataforma ✅
 - [ ] Open Class (semana 5) — consigna de investigación "¿Cómo mejoran las TI la gestión de las organizaciones?"; sin entrega confirmada en la plataforma
-- [ ] Tarea semana 6
+- [x] Actividad 6 (semana 6) — consultas en WolframAlpha; entregada el 12 de octubre de 2026 en Word y PDF ✅
 - [ ] Trabajo en equipo integrador (semana 7)
 
 ---
@@ -403,3 +431,6 @@ El artículo propone enlazar la **estrategia empresarial** con el **software** m
 - Zuppa Azúa, P. S. (2014). *Sistemas organizacionales* [Diapositivas del curso, Semana 5]. UTEL Universidad.
 - Zapien Osuna, M. M. *Unidad 5. Sistemas organizacionales* (diapositivas del curso, Semana 5).
 - Bocanegra, J., Peña, J., y Ruiz-Cortés, A. (2009). Hacia el enlace entre la estrategia empresarial mediante modelos de valor y el software de negocio: Un enfoque MDD. *Revista Avances en Sistemas e Informática, 6*(1), 15-24.
+- ULLaudiovisual. (2018). *3.2 Aplicaciones de la Web Semántica* [Video]. YouTube. https://youtu.be/37F7CVjJzHc
+- Wolfram Alpha LLC. (2009, 18 de mayo). *Wolfram|Alpha officially launched*. Wolfram Announcements. https://announcements.wolfram.com/2009/wolframalpha-officially-launched/
+- Wolfram Alpha LLC. (s. f.). *Wolfram|Alpha* [Sitio web]. https://www.wolframalpha.com/

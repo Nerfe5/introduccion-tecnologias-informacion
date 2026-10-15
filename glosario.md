@@ -1,6 +1,6 @@
 # 📖 Glosario — Introducción a las Tecnologías de la Información
 
-`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 5`
+`🔵 Materia: Introducción a las TI` &nbsp;·&nbsp; `📅 Actualizado: Semana 6`
 
 > Definiciones construidas a partir del material de cada semana. Se irá ampliando conforme avance el curso. Los términos están agrupados por semana y, dentro de cada una, en orden alfabético.
 
@@ -307,3 +307,25 @@ Sistemas que automatizan y registran de forma permanente las operaciones o trans
 
 ### Transacción
 Evento o proceso que genera o modifica la información almacenada en un sistema de información.
+
+---
+
+## Semana 6 — TI y su impacto social
+
+### Conocimiento computacional
+Enfoque en el que un sistema obtiene hechos de datos curados y aplica algoritmos para calcular respuestas nuevas, en lugar de solo localizar páginas.
+
+### Expectativas exageradas
+Etapa en la que una tecnología promete más de lo que ofrece en aplicaciones reales; el video ubica ahí a la web semántica.
+
+### HTML
+Lenguaje con el que se escribe la mayor parte de la web; describe cómo se muestra el contenido, no su significado.
+
+### Ontología
+Descripción formal de los conceptos de un área y de las relaciones entre ellos, que permite a las máquinas interpretar el significado de la información.
+
+### Web semántica
+Idea de una web cuyo contenido tiene significado interpretable por computadoras, para que los buscadores entiendan la pregunta y no solo las palabras.
+
+### WolframAlpha
+Motor de conocimiento computacional que responde preguntas de hechos y cálculos con datos, gráficas y formas alternas.

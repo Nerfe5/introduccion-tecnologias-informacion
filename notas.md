@@ -68,6 +68,14 @@
 - **Documentación actualizada:** amplié `README.md` (sección Semana 5 con sistemas por nivel, transaccionales, IOS, ERP, CRM y el artículo de Bocanegra), `glosario.md` y el seguimiento de entregas.
 - **Open Class:** el material trae una consigna de investigación ("¿Cómo mejoran las TI la gestión de las organizaciones?", con dos reflexiones sobre roles y funciones no delimitados y sobre la teoría general de sistemas), pero no aparece como entrega en la plataforma. Con esto la Semana 5 quedó cerrada y ya corre la Semana 6.
 
+## Semana 6
+
+- **Material recibido:** archivo de la tarea con la consigna de la Unidad 6 ("TI y su impacto social"): 10 consultas en WolframAlpha (5 matemáticas y 5 preguntas en inglés), video sobre aplicaciones de la web semántica, introducción, conclusión y referencias en APA, con el nuevo formato de portada verde.
+- **Actividad 6:** hice yo las consultas y las capturas; armé la interpretación de cada una, la tabla resumen, la introducción y la conclusión. Resultados: ecuaciones, derivada e integral bien resueltas; el dato de internet en México funcionó; las preguntas abiertas, subjetivas y la del centro de datos no se entendieron bien.
+- **Formato:** apliqué el formato oficial (Arial 11, interlineado 1.5, subtítulos subrayados, numeración abajo a la derecha). Revisé mi versión en Word, corregí numeración, subrayados, tamaño de los títulos de figura y portada, y volví a revisarla hasta quedar lista.
+- **Entrega:** subida a la plataforma el 12 de octubre de 2026 en Word y PDF.
+- **Documentación actualizada:** `README.md` (sección Semana 6, seguimiento y fuentes) y `glosario.md` (web semántica, ontología, HTML, WolframAlpha).
+
 ## Asuntos en paralelo (no académicos, pero relacionados)
 
 - **Suscripción Platzi:** envié un correo a soporte para aclarar si el acceso institucional que otorga UTEL puede vincularse a mi cuenta activa (@Skykru) en lugar de crear una cuenta nueva, y así evitar la renovación automática del plan Expert Duo (vence el 23 de noviembre de 2026). Carla (equipo de Platzi) preguntó por qué usé un correo distinto (Gmail) para el acceso de UTEL; ya respondí la aclaración. Como UTEL ya incluye el acceso durante mis estudios, desactivé la renovación automática desde "Mi suscripción" el 5 de octubre de 2026 y Platzi me lo confirmó por correo ese mismo día: mi plan sigue vigente hasta el 23 de noviembre y después pasa a una cuenta gratuita, sin cobro adicional ni pérdida de mi avance.
@@ -77,7 +85,8 @@
 ## Próximos pasos
 
 - [x] Desactivar la renovación automática de Platzi (confirmado por correo el 5 de octubre de 2026).
-- [ ] Leer el material de la Semana 6 y preparar su actividad.
+- [x] Leer el material de la Semana 6 y entregar su actividad (12 de octubre de 2026).
+- [ ] Revisar el material de la Semana 7 (trabajo en equipo integrador).
 - [ ] Estar al pendiente de la segunda etapa del Foro 2.
 - [ ] Actualizar esta bitácora cuando se abra la segunda etapa del Foro 1.
 - [ ] Sumar nuevos términos al glosario conforme avancen las semanas 6 en adelante.
